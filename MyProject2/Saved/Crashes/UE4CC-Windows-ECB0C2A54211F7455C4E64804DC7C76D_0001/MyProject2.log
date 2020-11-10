@@ -1,0 +1,1533 @@
+﻿Log file open, 10/14/20 13:07:49
+LogInit: Display: Running engine for game: MyProject2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.365267
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-13942748
+LogInit: Engine Version: 4.25.3-13942748+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz, GPU: Intel(R) HD Graphics 620
+LogInit: Compiled (64-bit): Jul 25 2020 02:07:48
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.10.14-17.07.49:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.10.14-17.07.49:409][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.10.14-17.07.49:409][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.10.14-17.07.49:412][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.14-17.07.49:412][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.14-17.07.49:413][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.14-17.07.49:413][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.10.14-17.07.49:413][  0]LogHAL: Display: Platform has ~ 12 GB [12748488704 / 17179869184 / 12], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.10.14-17.07.49:413][  0]LogInit: Going up to parent DeviceProfile []
+[2020.10.14-17.07.49:413][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.10.14-17.07.49:413][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.10.14-17.07.49:414][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Scalability.ini]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2020.10.14-17.07.49:415][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Config/Windows/Engine.ini]
+[2020.10.14-17.07.49:415][  0]LogInit: Computer: DESKTOP-PSMHJUC
+[2020.10.14-17.07.49:415][  0]LogInit: User: Liam
+[2020.10.14-17.07.49:415][  0]LogInit: CPU Page size=4096, Cores=2
+[2020.10.14-17.07.49:415][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.10.14-17.07.49:415][  0]LogMemory: Memory total: Physical=11.9GB (12GB approx)
+[2020.10.14-17.07.49:415][  0]LogMemory: Platform Memory Stats for Windows
+[2020.10.14-17.07.49:415][  0]LogMemory: Process Physical Memory: 112.89 MB used, 112.90 MB peak
+[2020.10.14-17.07.49:415][  0]LogMemory: Process Virtual Memory: 94.89 MB used, 94.89 MB peak
+[2020.10.14-17.07.49:415][  0]LogMemory: Physical Memory: 5752.63 MB used,  6405.27 MB free, 12157.91 MB total
+[2020.10.14-17.07.49:415][  0]LogMemory: Virtual Memory: 5137.16 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.10.14-17.07.49:421][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.10.14-17.07.49:455][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2020.10.14-17.07.49:456][  0]LogInit: Using OS detected language (en-US).
+[2020.10.14-17.07.49:456][  0]LogInit: Using OS detected locale (en-US).
+[2020.10.14-17.07.49:462][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.10.14-17.07.49:716][  0]LogInit: Setting process to per monitor DPI aware
+[2020.10.14-17.07.49:768][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.10.14-17.07.49:768][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.10.14-17.07.49:982][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.14-17.07.49:982][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.10.14-17.07.49:982][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.10.14-17.07.49:982][  0]LogD3D11RHI: D3D11 adapters:
+[2020.10.14-17.07.50:040][  0]LogD3D11RHI:    0. 'Intel(R) HD Graphics 620' (Feature Level 11_0)
+[2020.10.14-17.07.50:040][  0]LogD3D11RHI:       128/0/6078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2020.10.14-17.07.50:043][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.10.14-17.07.50:043][  0]LogD3D11RHI:       0/0/6078 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.10.14-17.07.50:043][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.10.14-17.07.50:052][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.10.14-17.07.50:053][  0]LogD3D11RHI:     GPU DeviceId: 0x5916 (for the marketing name, search the web for "GPU Device Id")
+[2020.10.14-17.07.50:053][  0]LogWindows: EnumDisplayDevices:
+[2020.10.14-17.07.50:053][  0]LogWindows:    0. 'Intel(R) HD Graphics 620' (P:1 D:1)
+[2020.10.14-17.07.50:053][  0]LogWindows:    1. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.10.14-17.07.50:054][  0]LogWindows:    2. 'Intel(R) HD Graphics 620' (P:0 D:0)
+[2020.10.14-17.07.50:054][  0]LogWindows: DebugString: FoundDriverCount:3 
+[2020.10.14-17.07.50:054][  0]LogD3D11RHI:     Adapter Name: Intel(R) HD Graphics 620
+[2020.10.14-17.07.50:054][  0]LogD3D11RHI:   Driver Version: 23.20.16.4973 (internal:23.20.16.4973, unified:23.20.16.4973)
+[2020.10.14-17.07.50:054][  0]LogD3D11RHI:      Driver Date: 2-28-2018
+[2020.10.14-17.07.50:054][  0]LogRHI: Texture pool is 1523 MB (70% of 2176 MB)
+[2020.10.14-17.07.50:081][  0]LogD3D11RHI: RHI does not have support for 64 bit atomics
+[2020.10.14-17.07.50:081][  0]LogD3D11RHI: Async texture creation enabled
+[2020.10.14-17.07.50:081][  0]LogD3D11RHI: Array index from any shader is supported
+[2020.10.14-17.07.50:090][  0]LogD3D11RHI: GPU Timing Frequency: 12.000048 (Debug: 2 0)
+[2020.10.14-17.07.50:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.10.14-17.07.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.10.14-17.07.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.10.14-17.07.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.10.14-17.07.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.10.14-17.07.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.10.14-17.07.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.10.14-17.07.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.10.14-17.07.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.10.14-17.07.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.10.14-17.07.50:635][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.10.14-17.07.50:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.10.14-17.07.50:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.10.14-17.07.50:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2020.10.14-17.07.50:704][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.10.14-17.07.50:720][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.10.14-17.07.50:733][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.10.14-17.07.50:750][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.10.14-17.07.50:762][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.10.14-17.07.50:779][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.10.14-17.07.50:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.10.14-17.07.50:822][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.10.14-17.07.50:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.10.14-17.07.50:847][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.10.14-17.07.50:860][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.10.14-17.07.50:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.10.14-17.07.50:889][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.10.14-17.07.50:899][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.10.14-17.07.50:899][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.10.14-17.07.50:907][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.10.14-17.07.50:981][  0]LogShaderCompilers: Guid format shader working directory is -30 characters bigger than the processId version (../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Intermediate/Shaders/WorkingDirectory/2760/).
+[2020.10.14-17.07.50:982][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Liam/AppData/Local/Temp/UnrealShaderWorkingDir/13A66E2A4D322DDA86FF4ABC54ADA0CD/'.
+[2020.10.14-17.07.50:982][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.10.14-17.07.50:982][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.10.14-17.07.50:982][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.10.14-17.07.52:162][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.10.14-17.07.52:223][  0]LogDerivedDataCache: Loaded boot cache 0.06s 76MB C:/Users/Liam/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.14-17.07.52:223][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Liam/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2020.10.14-17.07.52:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.10.14-17.07.52:223][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.10.14-17.07.52:223][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.14-17.07.52:224][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.10.14-17.07.52:239][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.10.14-17.07.52:240][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.10.14-17.07.52:240][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.10.14-17.07.52:241][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Liam/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.10.14-17.07.52:241][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.10.14-17.07.52:241][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.10.14-17.07.52:318][  0]LogSlate: Using FreeType 2.10.0
+[2020.10.14-17.07.52:319][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.10.14-17.07.52:353][  0]LogAssetRegistry: FAssetRegistry took 0.0027 seconds to start up
+[2020.10.14-17.07.52:798][  0]LogInit: Selected Device Profile: [Windows]
+[2020.10.14-17.07.52:987][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.10.14-17.07.52:987][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.10.14-17.07.52:987][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.10.14-17.07.52:987][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.10.14-17.07.52:987][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.10.14-17.07.53:009][  0]LogNetVersion: MyProject2 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 2431794755)
+[2020.10.14-17.07.53:849][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000204282B1B40), frame # 0
+[2020.10.14-17.07.53:850][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204281F5E40), frame # 0
+[2020.10.14-17.07.53:853][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020428278A00), frame # 0
+[2020.10.14-17.07.53:971][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.106281 seconds
+[2020.10.14-17.07.53:981][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2020.10.14-17.07.53:982][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2020.10.14-17.07.53:982][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.10.14-17.07.54:484][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.10.14-17.07.54:491][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.10.14-17.07.54:586][  0]SourceControl: Source control is disabled
+[2020.10.14-17.07.54:586][  0]SourceControl: Source control is disabled
+[2020.10.14-17.07.54:590][  0]SourceControl: Source control is disabled
+[2020.10.14-17.07.54:594][  0]SourceControl: Source control is disabled
+[2020.10.14-17.07.54:603][  0]SourceControl: Source control is disabled
+[2020.10.14-17.07.54:882][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.10.14-17.07.54:911][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.14-17.07.54:911][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.10.14-17.07.54:995][  0]LogOcInput: OculusInput pre-init called
+[2020.10.14-17.07.55:011][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.10.14-17.07.55:011][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.10.14-17.07.55:112][  0]LogEngine: Initializing Engine...
+[2020.10.14-17.07.55:114][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.10.14-17.07.55:114][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2020.10.14-17.07.55:115][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.10.14-17.07.55:290][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.10.14-17.07.55:306][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.10.14-17.07.55:306][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002042C339200), frame # 0
+[2020.10.14-17.07.55:306][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002042C345D00), frame # 0
+[2020.10.14-17.07.55:315][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-17.07.55:316][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-17.07.55:316][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-17.07.55:316][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-17.07.55:316][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-17.07.55:316][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-17.07.55:316][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-17.07.55:316][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-17.07.55:316][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-17.07.55:316][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-17.07.55:346][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-17.07.55:346][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-17.07.55:640][  0]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.14-17.07.55:646][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-17.07.55:649][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-17.07.55:649][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-17.07.55:650][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-17.07.55:651][  0]LogInit: FAudioDevice initialized.
+[2020.10.14-17.07.55:652][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.10.14-17.07.55:729][  0]LogDerivedDataCache: Saved boot cache 0.08s 76MB C:/Users/Liam/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2020.10.14-17.07.55:740][  0]LogInit: Texture streaming: Enabled
+[2020.10.14-17.07.55:757][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.10.14-17.07.55:757][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.10.14-17.07.55:758][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.10.14-17.07.55:834][  0]LogInit: Transaction tracking system initialized
+[2020.10.14-17.07.55:857][  0]BlueprintLog: New page: Editor Load
+[2020.10.14-17.07.55:934][  0]LocalizationService: Localization service is disabled
+[2020.10.14-17.07.56:137][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.10.14-17.07.56:137][  0]LogCook: Display: Mobile HDR setting 0
+[2020.10.14-17.07.56:322][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/' took 0.01s
+[2020.10.14-17.07.56:761][  0]SourceControl: Source control is disabled
+[2020.10.14-17.07.56:895][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.10.14-17.08.01:774][  0]LogSlate: Window 'Restore Packages' being destroyed
+[2020.10.14-17.08.01:774][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.14-17.08.01:800][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.14-17.08.03:845][  0]LogSlate: Window 'Unable to Check Out From Source Control!' being destroyed
+[2020.10.14-17.08.03:845][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.14-17.08.03:850][  0]Message dialog closed, result: Ok, title: Unable to Check Out From Source Control!, text: The following assets could not be successfully checked out from source control:
+/Game/2DSideScroller/Textures/tutorialsign_Blueprint
+/Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter
+[2020.10.14-17.08.03:891][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.10.14-17.08.03:892][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.861
+[2020.10.14-17.08.03:892][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Maps/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.10.14-17.08.03:893][  0]LightingResults: New page: Lighting Build
+[2020.10.14-17.08.03:894][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.08.03:894][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.08.03:894][  0]MapCheck: New page: Map Check
+[2020.10.14-17.08.03:894][  0]LightingResults: New page: Lighting Build
+[2020.10.14-17.08.03:909][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002042C339200), frame # 0
+[2020.10.14-17.08.03:909][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002042C345D00), frame # 0
+[2020.10.14-17.08.03:910][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2020.10.14-17.08.04:696][  0]LogAIModule: Creating AISystem for world NewWorld
+[2020.10.14-17.08.04:696][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002041EC13E00), frame # 0
+[2020.10.14-17.08.04:696][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204254A9300), frame # 0
+[2020.10.14-17.08.04:711][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.10.14-17.08.04:729][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.10.14-17.08.04:730][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.10.14-17.08.04:730][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.24ms to complete.
+[2020.10.14-17.08.04:730][  0]LogFileHelpers: Loading map 'NewWorld' took 0.838
+[2020.10.14-17.08.04:733][  0]LogUnrealEdMisc: Total Editor Startup Time, took 17.702
+[2020.10.14-17.08.04:917][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.08.04:935][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.08.04:953][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.08.04:970][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.08.04:992][  0]LogCollectionManager: Loaded 0 collections in 0.003864 seconds
+[2020.10.14-17.08.05:020][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Collections/' took 0.00s
+[2020.10.14-17.08.05:020][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/Developers/Liam/Collections/' took 0.00s
+[2020.10.14-17.08.05:020][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/Collections/' took 0.00s
+[2020.10.14-17.08.05:020][  0]LogContentBrowser: Native class hierarchy populated in 0.0212 seconds. Added 3427 classes and 821 folders.
+[2020.10.14-17.08.05:033][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.14-17.08.05:542][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.14-17.08.05:653][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.10.14-17.08.05:653][  0]LogLoad: (Engine Initialization) Total time: 18.62 seconds
+[2020.10.14-17.08.05:653][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.10.14-17.08.05:705][  0]LogAssetRegistry: Asset discovery search completed in 13.3526 seconds
+[2020.10.14-17.08.05:711][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2020.10.14-17.08.05:714][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.10.14-17.08.05:724][  0]LogSlate: Took 0.000190 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.10.14-17.08.05:735][  0]LogSlate: Took 0.006547 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.10.14-17.08.06:258][  0]LogRenderer: Reallocating scene render targets to support 812x364 Format 10 NumSamples 1 (Frame:1).
+[2020.10.14-17.08.06:258][  0]LogSlate: Took 0.012884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.14-17.08.24:576][775]LogSlate: Took 0.000332 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.10.14-17.08.24:616][775]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Liam\Desktop\tree-stem.png)
+[2020.10.14-17.08.24:626][775]LogTexture: Display: Building textures: tree-stem (AutoDXT, 500X500)
+[2020.10.14-17.08.28:486][984]LogTexture: Display: Building textures: tree-stem (BGRA8, 500X500)
+[2020.10.14-17.08.31:541][232]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/tree-stemB627CC404B2A8B767DFC9D8925250112.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScroller/Sprites/tree-stem.uasset'
+[2020.10.14-17.08.31:656][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.10.14-17.08.31:681][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2020.10.14-17.08.31:692][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2020.10.14-17.08.31:747][232]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/tree-stem_Sprite69536D8B4422933CF431698A10F9B660.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScroller/Sprites/tree-stem_Sprite.uasset'
+[2020.10.14-17.08.31:786][232]AssetCheck: New page: Asset Save: multiple assets
+[2020.10.14-17.08.31:786][232]LogContentValidation: Display: Validating Texture2D /Game/2DSideScroller/Sprites/tree-stem.tree-stem
+[2020.10.14-17.08.31:786][232]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/tree-stem_Sprite.tree-stem_Sprite
+[2020.10.14-17.08.43:634][746]LogEditorViewport: Clicking Background
+[2020.10.14-17.08.46:986][892]LogEditorViewport: Clicking Background
+[2020.10.14-17.08.53:453][ 88]LogEditorViewport: Clicking Background
+[2020.10.14-17.09.02:626][486]LogEditorViewport: Clicking Background
+[2020.10.14-17.09.03:385][524]LogEditorViewport: Clicking Background
+[2020.10.14-17.09.11:253][744]LogEditorViewport: Clicking Background
+[2020.10.14-17.09.14:042][865]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.10.14-17.09.14:096][865]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/NewWorld85549061489E4C93B821A482FC39BFDC.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Maps/NewWorld.umap'
+[2020.10.14-17.09.14:187][865]AssetCheck: New page: Asset Save: NewWorld
+[2020.10.14-17.09.14:187][865]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld
+[2020.10.14-17.09.22:467][287]LogRenderer: Reallocating scene render targets to support 968x432 Format 10 NumSamples 1 (Frame:2780).
+[2020.10.14-17.09.23:244][312]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.14-17.09.23:287][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-17.09.23:288][312]PIE: New page: PIE session: NewWorld (Oct 14, 2020, 9:09:23 AM)
+[2020.10.14-17.09.23:289][312]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.10.14-17.09.23:291][312]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.10.14-17.09.23:291][312]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.09.23:295][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003266s)
+[2020.10.14-17.09.23:296][312]LogAIModule: Creating AISystem for world NewWorld
+[2020.10.14-17.09.23:296][312]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000020448C87400), frame # 3312
+[2020.10.14-17.09.23:296][312]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002046AD23D80), frame # 3312
+[2020.10.14-17.09.23:296][312]LogPlayLevel: PIE: World Init took: (0.001637s)
+[2020.10.14-17.09.23:297][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld to /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld (0.005149s)
+[2020.10.14-17.09.23:312][312]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.10.14-17.09.23:314][312]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-17.09.23:314][312]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-17.09.23:314][312]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-17.09.23:314][312]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-17.09.23:314][312]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-17.09.23:314][312]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-17.09.23:314][312]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-17.09.23:314][312]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-17.09.23:315][312]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-17.09.23:315][312]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-17.09.23:322][312]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-17.09.23:322][312]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-17.09.23:444][312]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.14-17.09.23:444][312]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-17.09.23:444][312]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-17.09.23:444][312]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-17.09.23:445][312]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-17.09.23:468][312]LogInit: FAudioDevice initialized.
+[2020.10.14-17.09.23:519][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.09.23:526][312]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.10.14-17.09.23:539][312]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2020.10.14-13.09.23
+[2020.10.14-17.09.23:540][312]LogWorld: Bringing up level for play took: 0.011874
+[2020.10.14-17.09.23:540][312]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.10.14-17.09.23:546][312]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.10.14-17.09.23:555][312]PIE: Server logged in
+[2020.10.14-17.09.23:558][312]PIE: Play in editor total start time 0.271 seconds.
+[2020.10.14-17.09.23:625][313]LogRenderer: Reallocating scene render targets to support 1280x720 Format 10 NumSamples 1 (Frame:1).
+[2020.10.14-17.09.34:157][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.09.34:157][662]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.09.34:158][662]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.14-17.09.34:190][662]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.09.34:194][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.09.34:211][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-17.09.34:215][662]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.09.34:290][662]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000020448C87400), frame # 3662
+[2020.10.14-17.09.34:290][662]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002046AD23D80), frame # 3662
+[2020.10.14-17.09.34:292][662]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2020.10.14-17.09.34:366][663]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.10.14-17.09.35:734][710]LogEditorViewport: Clicking Background
+[2020.10.14-17.09.46:005][ 51]LogEditorViewport: Clicking Background
+[2020.10.14-17.09.47:307][ 94]LogEditorViewport: Clicking Background
+[2020.10.14-17.09.54:383][271]LogEditorViewport: Clicking Background
+[2020.10.14-17.09.56:249][335]LogEditorViewport: Clicking Background
+[2020.10.14-17.10.18:059][982]LogEditorViewport: Clicking Background
+[2020.10.14-17.10.23:152][156]LogEditorViewport: Clicking Background
+[2020.10.14-17.10.25:503][233]Cmd: EDIT COPY
+[2020.10.14-17.10.25:773][241]Cmd: EDIT PASTE
+[2020.10.14-17.10.33:300][474]Cmd: EDIT PASTE
+[2020.10.14-17.10.41:579][734]Cmd: EDIT PASTE
+[2020.10.14-17.10.52:519][ 18]LogEditorViewport: Clicking Background
+[2020.10.14-17.10.53:597][ 55]LogEditorViewport: Clicking Background
+[2020.10.14-17.11.04:307][397]LogEditorViewport: Clicking Background
+[2020.10.14-17.11.47:039][846]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2020.10.14-17.11.47:085][846]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/NewWorld067300214C4CE517352E85B2519682B5.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Maps/NewWorld.umap'
+[2020.10.14-17.11.47:155][846]AssetCheck: New page: Asset Save: NewWorld
+[2020.10.14-17.11.47:156][846]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld
+[2020.10.14-17.12.09:350][794]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2DSideScrollerBP/tilemaps/NewPaperTileMap.NewPaperTileMap
+[2020.10.14-17.12.09:613][794]LogSlate: Took 0.000290 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.10.14-17.12.09:676][794]LogRenderer: Reallocating scene render targets to support 1280x880 Format 10 NumSamples 1 (Frame:1).
+[2020.10.14-17.13.02:957][622]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/NewPaperTileMapD40537B748C0CABD4AF627851C73C782.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/tilemaps/NewPaperTileMap.uasset'
+[2020.10.14-17.13.02:975][622]AssetCheck: New page: Asset Save: NewPaperTileMap
+[2020.10.14-17.13.02:975][622]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScrollerBP/tilemaps/NewPaperTileMap.NewPaperTileMap
+[2020.10.14-17.13.05:009][664]LogSlate: Window 'NewPaperTileMap' being destroyed
+[2020.10.14-17.13.05:024][664]LogSlate: Window 'NewPaperTileMap' being destroyed
+[2020.10.14-17.13.05:099][664]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.13.05:099][664]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.13.18:665][ 86]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2DSideScrollerBP/tilemaps/NewPaperTileMap.NewPaperTileMap
+[2020.10.14-17.14.01:540][719]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/NewPaperTileMap85726C7C4C5F1A7462A61A98FBEC507E.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/tilemaps/NewPaperTileMap.uasset'
+[2020.10.14-17.14.01:552][719]AssetCheck: New page: Asset Save: NewPaperTileMap
+[2020.10.14-17.14.01:552][719]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScrollerBP/tilemaps/NewPaperTileMap.NewPaperTileMap
+[2020.10.14-17.14.02:042][733]LogSlate: Window 'NewPaperTileMap' being destroyed
+[2020.10.14-17.14.02:056][733]LogSlate: Window 'NewPaperTileMap' being destroyed
+[2020.10.14-17.14.02:085][733]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.14.02:085][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.14.06:521][881]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.14-17.14.06:558][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-17.14.06:559][881]PIE: New page: PIE session: NewWorld (Oct 14, 2020, 9:14:06 AM)
+[2020.10.14-17.14.06:559][881]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.14.06:562][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003216s)
+[2020.10.14-17.14.06:564][881]LogAIModule: Creating AISystem for world NewWorld
+[2020.10.14-17.14.06:564][881]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002045BA17E00), frame # 10881
+[2020.10.14-17.14.06:564][881]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204AD123880), frame # 10881
+[2020.10.14-17.14.06:564][881]LogPlayLevel: PIE: World Init took: (0.002075s)
+[2020.10.14-17.14.06:564][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld to /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld (0.005527s)
+[2020.10.14-17.14.06:829][881]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2020.10.14-17.14.06:971][881]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-17.14.06:971][881]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-17.14.06:971][881]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-17.14.06:972][881]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-17.14.06:972][881]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-17.14.06:972][881]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-17.14.06:972][881]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-17.14.06:972][881]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-17.14.06:972][881]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-17.14.06:972][881]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-17.14.06:978][881]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-17.14.06:978][881]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-17.14.07:076][881]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.14-17.14.07:076][881]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-17.14.07:076][881]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-17.14.07:076][881]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-17.14.07:077][881]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-17.14.07:093][881]LogInit: FAudioDevice initialized.
+[2020.10.14-17.14.07:141][881]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.14.07:141][881]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.10.14-17.14.07:150][881]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2020.10.14-13.14.07
+[2020.10.14-17.14.07:150][881]LogWorld: Bringing up level for play took: 0.008658
+[2020.10.14-17.14.07:151][881]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.10.14-17.14.07:165][881]PIE: Server logged in
+[2020.10.14-17.14.07:167][881]PIE: Play in editor total start time 0.609 seconds.
+[2020.10.14-17.14.23:304][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.14.23:304][413]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.14.23:305][413]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.14-17.14.23:320][413]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.14.23:328][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.14.23:343][413]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-17.14.23:346][413]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.14.23:420][413]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002045BA17E00), frame # 11413
+[2020.10.14-17.14.23:421][413]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000204AD123880), frame # 11413
+[2020.10.14-17.14.23:422][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2020.10.14-17.14.23:501][414]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.10.14-17.14.49:387][469]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.14-17.17.46:820][914]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Liam\Desktop\gemRed.png)
+[2020.10.14-17.17.46:822][914]LogTexture: Display: Building textures: gemRed (BGRA8, 70X70)
+[2020.10.14-17.18.11:241][369]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/gemRed_SpriteE6DB20B144A91BF147B74599912B1A5B.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScroller/Sprites/gemRed_Sprite.uasset'
+[2020.10.14-17.18.11:360][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2020.10.14-17.18.11:383][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2020.10.14-17.18.11:398][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.10.14-17.18.11:434][369]AssetCheck: New page: Asset Save: gemRed_Sprite
+[2020.10.14-17.18.11:434][369]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/gemRed_Sprite.gemRed_Sprite
+[2020.10.14-17.18.25:746][900]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/targets.targets
+[2020.10.14-17.18.26:505][900]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2020.10.14-17.18.29:352][931]LogSlate: Took 0.000552 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.10.14-17.18.46:235][456]BlueprintLog: New page: Compile targets
+[2020.10.14-17.18.46:359][456]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2020.10.14-17.18.46:456][456]LogSlate: Took 0.016901 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2020.10.14-17.22.22:835][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2020.10.14-17.22.22:838][633]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/NewWorld' took 0.040
+[2020.10.14-17.22.22:838][633]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/2DSideScrollerBP/Blueprints/targets] ([1] browsable assets)...
+[2020.10.14-17.22.22:838][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScrollerBP/Blueprints/targets]
+[2020.10.14-17.22.22:852][633]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/targets_Auto1FE37B2F14D7A995099480AAD1A6FB72D.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Autosaves/Game/2DSideScrollerBP/Blueprints/targets_Auto1.uasset'
+[2020.10.14-17.22.22:853][633]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/2DSideScroller/Textures/gemRed] ([1] browsable assets)...
+[2020.10.14-17.22.22:856][633]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/2DSideScroller/Textures/gemRed.gemRed]
+[2020.10.14-17.22.22:856][633]OBJ SavePackage: Finished generating thumbnails for package [/Game/2DSideScroller/Textures/gemRed]
+[2020.10.14-17.22.22:866][633]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/gemRed_Auto1A52B0599428C0B62080658A7BBC7F558.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Autosaves/Game/2DSideScroller/Textures/gemRed_Auto1.uasset'
+[2020.10.14-17.22.22:867][633]LogFileHelpers: Auto-saving content packages took 0.029
+[2020.10.14-17.24.15:181][981]BlueprintLog: New page: Compile targets
+[2020.10.14-17.24.15:287][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2020.10.14-17.24.16:009][992]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/targets8C31621E42EBE9E08C74259D5F0255BA.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Blueprints/targets.uasset'
+[2020.10.14-17.24.16:043][992]AssetCheck: New page: Asset Save: targets
+[2020.10.14-17.24.16:043][992]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/targets.targets
+[2020.10.14-17.24.16:810][  6]LogSlate: Window 'targets' being destroyed
+[2020.10.14-17.24.16:861][  6]LogSlate: Window 'targets' being destroyed
+[2020.10.14-17.24.16:924][  6]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.24.16:924][  6]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.24.19:442][181]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2020.10.14-17.24.21:285][181]LogSlate: Window 'Pick Parent Class' being destroyed
+[2020.10.14-17.24.36:887][853]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/disappearinggem.disappearinggem
+[2020.10.14-17.25.16:813][906]BlueprintLog: New page: Compile disappearinggem
+[2020.10.14-17.25.16:900][906]LogUObjectHash: Compacting FUObjectHashTables data took   4.41ms
+[2020.10.14-17.26.22:744][343]BlueprintLog: New page: Compile disappearinggem
+[2020.10.14-17.26.22:786][343]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2020.10.14-17.26.23:707][374]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/disappearinggem670D9AD84EE60B36EBB348BC53A6A1F6.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Blueprints/disappearinggem.uasset'
+[2020.10.14-17.26.23:724][374]AssetCheck: New page: Asset Save: disappearinggem
+[2020.10.14-17.26.23:724][374]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/disappearinggem.disappearinggem
+[2020.10.14-17.26.27:900][512]LogSlate: Window 'disappearinggem' being destroyed
+[2020.10.14-17.26.27:924][512]LogSlate: Window 'disappearinggem' being destroyed
+[2020.10.14-17.26.28:103][512]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.26.28:103][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.26.29:925][569]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/targets.targets
+[2020.10.14-17.28.45:415][110]BlueprintLog: New page: Compile targets
+[2020.10.14-17.28.45:504][110]LogUObjectHash: Compacting FUObjectHashTables data took   4.34ms
+[2020.10.14-17.32.19:570][563]BlueprintLog: New page: Compile targets
+[2020.10.14-17.32.19:631][563]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2020.10.14-17.32.20:358][589]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/targetsC36154024EB807A22C56118E559F1E47.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Blueprints/targets.uasset'
+[2020.10.14-17.32.20:369][589]AssetCheck: New page: Asset Save: targets
+[2020.10.14-17.32.20:369][589]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/targets.targets
+[2020.10.14-17.33.39:609][  8]BlueprintLog: New page: Compile targets
+[2020.10.14-17.33.39:669][  8]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2020.10.14-17.33.40:422][ 35]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/targets603F8751402BA0D2129203AD42C948EE.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Blueprints/targets.uasset'
+[2020.10.14-17.33.40:433][ 35]AssetCheck: New page: Asset Save: targets
+[2020.10.14-17.33.40:433][ 35]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/targets.targets
+[2020.10.14-17.34.26:121][543]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.10.14-17.35.14:199][852]BlueprintLog: New page: Compile targets
+[2020.10.14-17.35.14:306][852]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.10.14-17.35.15:683][894]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/targetsEE1261E84810AC81D959F2BFF0DFA6E5.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Blueprints/targets.uasset'
+[2020.10.14-17.35.15:710][894]AssetCheck: New page: Asset Save: targets
+[2020.10.14-17.35.15:710][894]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/targets.targets
+[2020.10.14-17.35.17:310][938]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/targetsCB1E68D34027CF2B7EB1938AB6877EF4.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Blueprints/targets.uasset'
+[2020.10.14-17.35.17:331][938]AssetCheck: New page: Asset Save: targets
+[2020.10.14-17.35.17:331][938]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/targets.targets
+[2020.10.14-17.35.18:748][986]LogSlate: Window 'targets' being destroyed
+[2020.10.14-17.35.18:759][986]LogSlate: Window 'targets' being destroyed
+[2020.10.14-17.35.18:844][986]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.35.18:844][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.35.48:196][982]LogEditorViewport: Clicking Background
+[2020.10.14-17.35.50:386][ 64]LogEditorViewport: Clicking on Actor (LMB): targets_C (targets)
+[2020.10.14-17.35.52:884][144]LogEditorViewport: Clicking Background
+[2020.10.14-17.36.19:537][311]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2020.10.14-17.36.19:590][311]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/NewWorld_Auto2E5C0EA6B4EAD05EEAEA53881CFE4BB85.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Autosaves/Game/2DSideScrollerBP/Maps/NewWorld_Auto2.umap'
+[2020.10.14-17.36.19:593][311]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/NewWorld' took 0.094
+[2020.10.14-17.36.19:593][311]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.094
+[2020.10.14-17.36.27:878][340]LogEditorViewport: Clicking Background
+[2020.10.14-17.36.30:733][521]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.14-17.36.30:752][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-17.36.30:752][521]PIE: New page: PIE session: NewWorld (Oct 14, 2020, 9:36:30 AM)
+[2020.10.14-17.36.30:753][521]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.36.30:754][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001700s)
+[2020.10.14-17.36.30:755][521]LogAIModule: Creating AISystem for world NewWorld
+[2020.10.14-17.36.30:755][521]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204CB6FA800), frame # 35521
+[2020.10.14-17.36.30:755][521]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204CB31D580), frame # 35521
+[2020.10.14-17.36.30:755][521]LogPlayLevel: PIE: World Init took: (0.001100s)
+[2020.10.14-17.36.30:755][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld to /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld (0.002914s)
+[2020.10.14-17.36.30:778][521]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2020.10.14-17.36.30:780][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-17.36.30:780][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-17.36.30:780][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-17.36.30:780][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-17.36.30:780][521]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-17.36.30:780][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-17.36.30:780][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-17.36.30:780][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-17.36.30:780][521]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-17.36.30:780][521]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-17.36.30:784][521]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-17.36.30:784][521]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-17.36.30:880][521]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.14-17.36.30:880][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-17.36.30:880][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-17.36.30:880][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-17.36.30:881][521]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-17.36.30:899][521]LogInit: FAudioDevice initialized.
+[2020.10.14-17.36.30:945][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.36.30:946][521]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.10.14-17.36.30:955][521]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2020.10.14-13.36.30
+[2020.10.14-17.36.30:956][521]LogWorld: Bringing up level for play took: 0.009104
+[2020.10.14-17.36.30:956][521]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2020.10.14-17.36.30:970][521]PIE: Server logged in
+[2020.10.14-17.36.30:971][521]PIE: Play in editor total start time 0.22 seconds.
+[2020.10.14-17.36.50:238][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.36.50:238][201]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.36.50:239][201]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.14-17.36.50:270][201]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.36.50:277][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.36.50:293][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-17.36.50:304][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.36.50:420][201]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000204CB31D580), frame # 36201
+[2020.10.14-17.36.50:420][201]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204CB6FA800), frame # 36201
+[2020.10.14-17.36.50:424][201]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2020.10.14-17.36.50:489][202]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2020.10.14-17.36.57:604][458]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/disappearinggem.disappearinggem
+[2020.10.14-17.37.22:317][864]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/disappearinggem7C903A6B47A6678568AB5887CE9B308F.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Blueprints/disappearinggem.uasset'
+[2020.10.14-17.37.22:348][864]AssetCheck: New page: Asset Save: disappearinggem
+[2020.10.14-17.37.22:348][864]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/disappearinggem.disappearinggem
+[2020.10.14-17.37.22:969][876]LogSlate: Window 'disappearinggem' being destroyed
+[2020.10.14-17.37.22:995][876]LogSlate: Window 'disappearinggem' being destroyed
+[2020.10.14-17.37.23:022][876]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.37.23:022][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.37.27:054][  5]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.14-17.37.27:101][  5]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-17.37.27:101][  5]PIE: New page: PIE session: NewWorld (Oct 14, 2020, 9:37:27 AM)
+[2020.10.14-17.37.27:102][  5]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.37.27:105][  5]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003226s)
+[2020.10.14-17.37.27:107][  5]LogAIModule: Creating AISystem for world NewWorld
+[2020.10.14-17.37.27:107][  5]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204A8DE0400), frame # 37005
+[2020.10.14-17.37.27:107][  5]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000020456FA9F80), frame # 37005
+[2020.10.14-17.37.27:108][  5]LogPlayLevel: PIE: World Init took: (0.002815s)
+[2020.10.14-17.37.27:108][  5]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld to /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld (0.006289s)
+[2020.10.14-17.37.27:156][  5]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2020.10.14-17.37.27:160][  5]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-17.37.27:160][  5]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-17.37.27:160][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-17.37.27:160][  5]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-17.37.27:160][  5]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-17.37.27:160][  5]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-17.37.27:160][  5]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-17.37.27:161][  5]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-17.37.27:161][  5]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-17.37.27:161][  5]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-17.37.27:169][  5]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-17.37.27:170][  5]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-17.37.27:301][  5]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.14-17.37.27:302][  5]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-17.37.27:302][  5]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-17.37.27:302][  5]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-17.37.27:302][  5]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-17.37.27:323][  5]LogInit: FAudioDevice initialized.
+[2020.10.14-17.37.27:368][  5]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.37.27:369][  5]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.10.14-17.37.27:383][  5]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2020.10.14-13.37.27
+[2020.10.14-17.37.27:383][  5]LogWorld: Bringing up level for play took: 0.012702
+[2020.10.14-17.37.27:383][  5]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2020.10.14-17.37.27:398][  5]PIE: Server logged in
+[2020.10.14-17.37.27:402][  5]PIE: Play in editor total start time 0.301 seconds.
+[2020.10.14-17.37.43:824][543]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.37.43:824][543]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.37.43:825][543]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.14-17.37.43:873][543]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.37.43:878][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.37.43:888][543]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-17.37.43:896][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.37.44:014][543]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000020456FA9F80), frame # 37543
+[2020.10.14-17.37.44:014][543]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204A8DE0400), frame # 37543
+[2020.10.14-17.37.44:019][543]LogUObjectHash: Compacting FUObjectHashTables data took   4.45ms
+[2020.10.14-17.37.44:093][544]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2020.10.14-17.38.17:730][155]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/targets.targets
+[2020.10.14-17.42.59:942][548]BlueprintLog: New page: Compile targets
+[2020.10.14-17.43.00:080][548]LogUObjectHash: Compacting FUObjectHashTables data took   6.21ms
+[2020.10.14-17.43.01:046][568]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/targets9073201E455D0D7E700164B7903A6C55.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Blueprints/targets.uasset'
+[2020.10.14-17.43.01:085][568]AssetCheck: New page: Asset Save: targets
+[2020.10.14-17.43.01:085][568]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/targets.targets
+[2020.10.14-17.43.02:205][596]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.14-17.43.02:284][596]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-17.43.02:284][596]PIE: New page: PIE session: NewWorld (Oct 14, 2020, 9:43:02 AM)
+[2020.10.14-17.43.02:284][596]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.43.02:290][596]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005491s)
+[2020.10.14-17.43.02:292][596]LogAIModule: Creating AISystem for world NewWorld
+[2020.10.14-17.43.02:293][596]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204EA309400), frame # 46596
+[2020.10.14-17.43.02:293][596]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204AFB04680), frame # 46596
+[2020.10.14-17.43.02:293][596]LogPlayLevel: PIE: World Init took: (0.003298s)
+[2020.10.14-17.43.02:294][596]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld to /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld (0.009197s)
+[2020.10.14-17.43.02:346][596]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2020.10.14-17.43.02:347][596]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-17.43.02:347][596]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-17.43.02:347][596]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-17.43.02:347][596]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-17.43.02:347][596]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-17.43.02:347][596]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-17.43.02:347][596]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-17.43.02:347][596]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-17.43.02:348][596]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-17.43.02:349][596]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-17.43.02:358][596]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-17.43.02:358][596]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-17.43.02:491][596]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.14-17.43.02:492][596]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-17.43.02:492][596]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-17.43.02:492][596]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-17.43.02:493][596]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-17.43.02:510][596]LogInit: FAudioDevice initialized.
+[2020.10.14-17.43.02:565][596]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.43.02:565][596]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.10.14-17.43.02:578][596]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2020.10.14-13.43.02
+[2020.10.14-17.43.02:579][596]LogWorld: Bringing up level for play took: 0.013260
+[2020.10.14-17.43.02:580][596]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2020.10.14-17.43.02:599][596]PIE: Server logged in
+[2020.10.14-17.43.02:602][596]PIE: Play in editor total start time 0.32 seconds.
+[2020.10.14-17.43.31:444][374]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.43.31:444][374]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.43.31:446][374]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.14-17.43.31:494][374]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.43.31:503][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.43.31:516][374]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-17.43.31:523][374]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.43.31:639][374]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000204AFB04680), frame # 47374
+[2020.10.14-17.43.31:639][374]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204EA309400), frame # 47374
+[2020.10.14-17.43.31:644][374]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.10.14-17.43.31:731][375]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2020.10.14-17.43.34:715][452]BlueprintLog: New page: Compile targets
+[2020.10.14-17.43.34:862][452]LogUObjectHash: Compacting FUObjectHashTables data took   5.42ms
+[2020.10.14-17.43.35:774][473]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/targets545AA38B459383E5FB03A6B249FECF18.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Blueprints/targets.uasset'
+[2020.10.14-17.43.35:793][473]AssetCheck: New page: Asset Save: targets
+[2020.10.14-17.43.35:793][473]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/targets.targets
+[2020.10.14-17.43.36:232][486]LogSlate: Window 'targets' being destroyed
+[2020.10.14-17.43.36:246][486]LogSlate: Window 'targets' being destroyed
+[2020.10.14-17.43.36:269][486]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.43.36:269][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.43.44:991][763]LogEditorViewport: Clicking on Actor (LMB): targets_C (targets)
+[2020.10.14-17.43.57:273][133]LogEditorViewport: Clicking Background
+[2020.10.14-17.43.58:315][166]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2020.10.14-17.44.08:283][426]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.2DSideScrollerCharacter
+[2020.10.14-17.47.25:427][700]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2020.10.14-17.47.25:473][700]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/NewWorld_Auto34B2C578E45C5AEB06137B39A937194A3.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/Autosaves/Game/2DSideScrollerBP/Maps/NewWorld_Auto3.umap'
+[2020.10.14-17.47.25:476][700]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/2DSideScrollerBP/Maps/NewWorld' took 0.082
+[2020.10.14-17.47.25:476][700]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.082
+[2020.10.14-17.47.42:071][ 72]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.10.14-17.47.42:085][ 72]LogSlate: Window '2DSideScrollerCharacter' being destroyed
+[2020.10.14-17.47.42:086][ 72]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.47.42:087][ 72]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.47.43:122][ 96]LogEditorViewport: Clicking Background
+[2020.10.14-17.47.45:851][181]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.14-17.47.45:907][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-17.47.45:907][181]PIE: New page: PIE session: NewWorld (Oct 14, 2020, 9:47:45 AM)
+[2020.10.14-17.47.45:908][181]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.47.45:912][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004013s)
+[2020.10.14-17.47.45:913][181]LogAIModule: Creating AISystem for world NewWorld
+[2020.10.14-17.47.45:914][181]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002043DC35A00), frame # 50181
+[2020.10.14-17.47.45:914][181]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204C371D6C0), frame # 50181
+[2020.10.14-17.47.45:914][181]LogPlayLevel: PIE: World Init took: (0.002106s)
+[2020.10.14-17.47.45:914][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld to /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld (0.006447s)
+[2020.10.14-17.47.45:962][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2020.10.14-17.47.45:965][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-17.47.45:965][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-17.47.45:965][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-17.47.45:966][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-17.47.45:966][181]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-17.47.45:966][181]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-17.47.45:966][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-17.47.45:966][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-17.47.45:967][181]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-17.47.45:967][181]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-17.47.45:976][181]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-17.47.45:976][181]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-17.47.46:118][181]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.14-17.47.46:119][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-17.47.46:119][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-17.47.46:119][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-17.47.46:119][181]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-17.47.46:144][181]LogInit: FAudioDevice initialized.
+[2020.10.14-17.47.46:174][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.47.46:175][181]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.10.14-17.47.46:189][181]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2020.10.14-13.47.46
+[2020.10.14-17.47.46:190][181]LogWorld: Bringing up level for play took: 0.013848
+[2020.10.14-17.47.46:190][181]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2020.10.14-17.47.46:210][181]PIE: Server logged in
+[2020.10.14-17.47.46:213][181]PIE: Play in editor total start time 0.307 seconds.
+[2020.10.14-17.48.48:466][237]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.48.48:466][237]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.48.48:468][237]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.14-17.48.48:519][237]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.48.48:525][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.48.48:542][237]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-17.48.48:549][237]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.48.48:683][237]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000204C371D6C0), frame # 52237
+[2020.10.14-17.48.48:683][237]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002043DC35A00), frame # 52237
+[2020.10.14-17.48.48:690][237]LogUObjectHash: Compacting FUObjectHashTables data took   6.47ms
+[2020.10.14-17.48.48:752][238]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2020.10.14-17.49.00:790][637]LogAssetEditorSubsystem: Opening Asset editor for PaperTileMap /Game/2DSideScrollerBP/tilemaps/NewPaperTileMap.NewPaperTileMap
+[2020.10.14-17.52.13:220][684]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/NewPaperTileMap52D7801F479D059A1BCC3C9253989A3F.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/tilemaps/NewPaperTileMap.uasset'
+[2020.10.14-17.52.13:256][684]AssetCheck: New page: Asset Save: NewPaperTileMap
+[2020.10.14-17.52.13:256][684]LogContentValidation: Display: Validating PaperTileMap /Game/2DSideScrollerBP/tilemaps/NewPaperTileMap.NewPaperTileMap
+[2020.10.14-17.52.14:064][702]LogSlate: Window 'NewPaperTileMap' being destroyed
+[2020.10.14-17.52.14:082][702]LogSlate: Window 'NewPaperTileMap' being destroyed
+[2020.10.14-17.52.14:132][702]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.52.14:132][702]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.52.15:460][744]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.14-17.52.15:525][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-17.52.15:525][744]PIE: New page: PIE session: NewWorld (Oct 14, 2020, 9:52:15 AM)
+[2020.10.14-17.52.15:525][744]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.52.15:531][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005803s)
+[2020.10.14-17.52.15:534][744]LogAIModule: Creating AISystem for world NewWorld
+[2020.10.14-17.52.15:534][744]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002043FBD5800), frame # 55744
+[2020.10.14-17.52.15:534][744]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204AF787240), frame # 55744
+[2020.10.14-17.52.15:534][744]LogPlayLevel: PIE: World Init took: (0.003128s)
+[2020.10.14-17.52.15:535][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld to /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld (0.009449s)
+[2020.10.14-17.52.16:142][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.10.14-17.52.16:512][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-17.52.16:512][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-17.52.16:512][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-17.52.16:512][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-17.52.16:512][744]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-17.52.16:512][744]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-17.52.16:512][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-17.52.16:512][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-17.52.16:513][744]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-17.52.16:513][744]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-17.52.16:517][744]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-17.52.16:517][744]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-17.52.16:619][744]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.14-17.52.16:620][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-17.52.16:620][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-17.52.16:620][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-17.52.16:620][744]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-17.52.16:635][744]LogInit: FAudioDevice initialized.
+[2020.10.14-17.52.16:682][744]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.52.16:682][744]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.10.14-17.52.16:691][744]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2020.10.14-13.52.16
+[2020.10.14-17.52.16:692][744]LogWorld: Bringing up level for play took: 0.008829
+[2020.10.14-17.52.16:692][744]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2020.10.14-17.52.16:707][744]PIE: Server logged in
+[2020.10.14-17.52.16:708][744]PIE: Play in editor total start time 1.185 seconds.
+[2020.10.14-17.53.49:487][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.53.49:487][787]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.53.49:488][787]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.14-17.53.49:545][787]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.53.49:552][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.53.49:564][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-17.53.49:572][787]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.53.49:698][787]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000204AF787240), frame # 58787
+[2020.10.14-17.53.49:698][787]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002043FBD5800), frame # 58787
+[2020.10.14-17.53.49:702][787]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2020.10.14-17.53.49:762][788]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2020.10.14-17.53.50:790][822]LogEditorViewport: Clicking Background
+[2020.10.14-17.53.51:459][842]LogEditorViewport: Clicking Background
+[2020.10.14-17.54.36:024][689]LogEditorViewport: Clicking on Actor (LMB): 2DSideScrollerCharacter_C (2DSideScrollerCharacter)
+[2020.10.14-17.54.39:714][767]LogEditorViewport: Clicking Background
+[2020.10.14-17.54.43:071][874]LogEditorViewport: Clicking on Actor (LMB): tutorialsign_Blueprint_C (tutorialsign_Blueprint2)
+[2020.10.14-17.54.46:249][952]LogEditorViewport: Clicking Background
+[2020.10.14-17.54.46:786][968]LogEditorViewport: Clicking Background
+[2020.10.14-17.55.25:455][301]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2020.10.14-17.55.25:519][301]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/NewWorld19458C214D626655046130A5AC68B9F7.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Maps/NewWorld.umap'
+[2020.10.14-17.55.25:661][301]AssetCheck: New page: Asset Save: NewWorld
+[2020.10.14-17.55.25:661][301]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld
+[2020.10.14-17.55.27:575][361]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.14-17.55.27:615][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-17.55.27:616][361]PIE: New page: PIE session: NewWorld (Oct 14, 2020, 9:55:27 AM)
+[2020.10.14-17.55.27:616][361]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.55.27:620][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003839s)
+[2020.10.14-17.55.27:621][361]LogAIModule: Creating AISystem for world NewWorld
+[2020.10.14-17.55.27:621][361]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204E2793600), frame # 62361
+[2020.10.14-17.55.27:621][361]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002044878F880), frame # 62361
+[2020.10.14-17.55.27:622][361]LogPlayLevel: PIE: World Init took: (0.001949s)
+[2020.10.14-17.55.27:622][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld to /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld (0.006021s)
+[2020.10.14-17.55.27:663][361]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.10.14-17.55.27:703][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-17.55.27:703][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-17.55.27:703][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-17.55.27:703][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-17.55.27:703][361]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-17.55.27:703][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-17.55.27:703][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-17.55.27:703][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-17.55.27:704][361]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-17.55.27:704][361]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-17.55.27:711][361]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-17.55.27:711][361]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-17.55.27:830][361]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.14-17.55.27:831][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-17.55.27:831][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-17.55.27:831][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-17.55.27:833][361]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-17.55.27:852][361]LogInit: FAudioDevice initialized.
+[2020.10.14-17.55.27:904][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.55.27:905][361]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.10.14-17.55.27:919][361]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2020.10.14-13.55.27
+[2020.10.14-17.55.27:921][361]LogWorld: Bringing up level for play took: 0.015051
+[2020.10.14-17.55.27:921][361]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2020.10.14-17.55.27:940][361]PIE: Server logged in
+[2020.10.14-17.55.27:941][361]PIE: Play in editor total start time 0.327 seconds.
+[2020.10.14-17.55.50:891][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-17.55.50:891][112]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-17.55.50:892][112]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.14-17.55.50:924][112]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.55.50:933][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.55.50:948][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-17.55.50:954][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.55.51:047][112]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002044878F880), frame # 63112
+[2020.10.14-17.55.51:047][112]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204E2793600), frame # 63112
+[2020.10.14-17.55.51:052][112]LogUObjectHash: Compacting FUObjectHashTables data took   4.80ms
+[2020.10.14-17.55.51:118][113]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2020.10.14-17.56.21:392][394]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/tree-stem_Sprite.tree-stem_Sprite
+[2020.10.14-17.56.21:792][394]LogRenderer: Reallocating scene render targets to support 1524x880 Format 10 NumSamples 1 (Frame:1).
+[2020.10.14-17.56.39:595][662]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.39:670][663]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.39:725][664]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.39:781][665]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.39:826][666]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.39:889][667]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.39:954][668]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.40:016][669]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.40:101][670]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.40:180][671]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.40:245][672]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.41:556][693]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.41:622][694]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.41:699][695]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.41:743][696]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.41:828][697]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.41:874][698]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.41:919][699]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.41:985][700]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:072][701]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:119][702]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:166][703]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:232][704]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:357][705]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:362][705]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:431][705]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:463][706]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:515][707]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:574][708]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:641][709]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:689][710]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:749][711]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:812][712]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:879][713]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.42:958][714]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:028][715]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:087][716]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:150][717]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:226][718]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:311][719]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:388][720]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:459][721]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:514][722]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:638][723]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:675][724]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:745][725]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:799][726]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:868][727]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:928][728]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.43:995][729]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.44:054][730]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.44:135][731]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.44:204][732]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.44:281][733]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.44:405][734]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.44:490][735]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.44:709][738]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/tree-stem_SpriteDFD9607B456331C187D6F0BE0DC2E7B9.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScroller/Sprites/tree-stem_Sprite.uasset'
+[2020.10.14-17.56.44:730][738]AssetCheck: New page: Asset Save: tree-stem_Sprite
+[2020.10.14-17.56.44:730][738]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/tree-stem_Sprite.tree-stem_Sprite
+[2020.10.14-17.56.44:731][738]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.44:790][739]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.44:837][740]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.44:888][741]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.44:937][742]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:057][743]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:102][744]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:158][745]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:201][746]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:260][747]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:310][748]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:354][749]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:402][750]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:493][751]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:544][752]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:596][753]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:643][754]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:714][755]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.56.45:892][758]LogSlate: Window 'tree-stem_Sprite' being destroyed
+[2020.10.14-17.56.45:914][758]LogSlate: Window 'tree-stem_Sprite' being destroyed
+[2020.10.14-17.56.45:969][758]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.56.45:969][758]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.56.47:229][791]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (NewPaperTileMap)
+[2020.10.14-17.56.48:054][808]LogEditorViewport: Clicking on Actor (LMB): PaperTileMapActor (NewPaperTileMap)
+[2020.10.14-17.56.52:698][927]LogEditorViewport: Clicking on Actor (LMB): targets_C (targets)
+[2020.10.14-17.56.52:795][927]LogEditorViewport: Clicking on Component (LMB): SceneComponent (DefaultSceneRoot)
+[2020.10.14-17.56.56:477][ 73]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/targets.targets
+[2020.10.14-17.57.16:641][520]LogSlate: Window 'targets' being destroyed
+[2020.10.14-17.57.16:656][520]LogSlate: Window 'targets' being destroyed
+[2020.10.14-17.57.16:723][520]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.57.16:723][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.57.26:024][777]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/disappearinggem.disappearinggem
+[2020.10.14-17.57.46:547][239]BlueprintLog: New page: Compile disappearinggem
+[2020.10.14-17.57.46:646][239]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2020.10.14-17.57.47:458][254]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/disappearinggem6B553EB141006887E894B58070302F63.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Blueprints/disappearinggem.uasset'
+[2020.10.14-17.57.47:479][254]AssetCheck: New page: Asset Save: disappearinggem
+[2020.10.14-17.57.47:479][254]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/disappearinggem.disappearinggem
+[2020.10.14-17.57.51:975][358]LogSlate: Window 'disappearinggem' being destroyed
+[2020.10.14-17.57.51:984][358]LogSlate: Window 'disappearinggem' being destroyed
+[2020.10.14-17.57.51:986][358]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-17.57.51:986][358]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-17.57.55:550][449]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/gemRed_Sprite.gemRed_Sprite
+[2020.10.14-17.58.05:288][595]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.05:359][596]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.05:422][597]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.05:468][598]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.05:509][599]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.05:556][600]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.05:638][601]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.05:686][602]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.05:757][603]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.05:853][604]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.05:894][605]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.18:826][802]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.18:890][803]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.18:946][804]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:011][805]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:074][806]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:151][807]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:205][808]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:274][809]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:363][810]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:430][811]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:491][812]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:551][813]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:614][814]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:671][815]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:737][816]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:802][817]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:852][818]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.19:917][819]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.20:002][820]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.20:052][821]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.20:108][822]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.20:985][836]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.21:027][837]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.21:096][838]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.21:177][839]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.21:235][840]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.21:295][841]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.21:346][842]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.21:403][843]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.21:474][844]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-17.58.21:568][845]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.03:965][439]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/gemRed_Sprite33EA7AC54103DBD3416226BBBE1E0154.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScroller/Sprites/gemRed_Sprite.uasset'
+[2020.10.14-18.00.03:993][439]AssetCheck: New page: Asset Save: gemRed_Sprite
+[2020.10.14-18.00.03:993][439]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/gemRed_Sprite.gemRed_Sprite
+[2020.10.14-18.00.04:720][451]LogSlate: Window 'gemRed_Sprite' being destroyed
+[2020.10.14-18.00.04:784][451]LogSlate: Window 'gemRed_Sprite' being destroyed
+[2020.10.14-18.00.04:839][451]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-18.00.04:839][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-18.00.06:379][494]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.14-18.00.06:447][494]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.10.14-18.00.06:447][494]PIE: New page: PIE session: NewWorld (Oct 14, 2020, 10:00:06 AM)
+[2020.10.14-18.00.06:447][494]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-18.00.06:453][494]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006111s)
+[2020.10.14-18.00.06:455][494]LogAIModule: Creating AISystem for world NewWorld
+[2020.10.14-18.00.06:455][494]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002045BA14C00), frame # 68494
+[2020.10.14-18.00.06:456][494]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204B01EBEC0), frame # 68494
+[2020.10.14-18.00.06:456][494]LogPlayLevel: PIE: World Init took: (0.002579s)
+[2020.10.14-18.00.06:456][494]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld to /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld (0.008969s)
+[2020.10.14-18.00.06:513][494]LogUObjectHash: Compacting FUObjectHashTables data took   5.97ms
+[2020.10.14-18.00.06:526][494]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-18.00.06:526][494]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-18.00.06:526][494]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-18.00.06:526][494]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-18.00.06:526][494]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-18.00.06:526][494]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-18.00.06:526][494]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-18.00.06:526][494]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-18.00.06:528][494]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-18.00.06:528][494]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-18.00.06:537][494]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-18.00.06:537][494]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-18.00.06:678][494]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.14-18.00.06:678][494]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-18.00.06:678][494]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-18.00.06:678][494]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-18.00.06:679][494]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-18.00.06:698][494]LogInit: FAudioDevice initialized.
+[2020.10.14-18.00.06:739][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-18.00.06:740][494]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.10.14-18.00.06:757][494]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2020.10.14-14.00.06
+[2020.10.14-18.00.06:757][494]LogWorld: Bringing up level for play took: 0.016624
+[2020.10.14-18.00.06:758][494]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2020.10.14-18.00.06:776][494]PIE: Server logged in
+[2020.10.14-18.00.06:779][494]PIE: Play in editor total start time 0.334 seconds.
+[2020.10.14-18.00.15:963][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-18.00.15:963][780]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-18.00.15:963][780]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.14-18.00.15:990][780]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-18.00.15:995][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-18.00.16:011][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-18.00.16:017][780]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-18.00.16:127][780]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000204B01EBEC0), frame # 68780
+[2020.10.14-18.00.16:127][780]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002045BA14C00), frame # 68780
+[2020.10.14-18.00.16:132][780]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2020.10.14-18.00.16:202][781]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2020.10.14-18.00.22:017][954]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/gemRed_Sprite.gemRed_Sprite
+[2020.10.14-18.00.30:498][ 85]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.30:564][ 86]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.30:631][ 87]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.30:692][ 88]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.30:737][ 89]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.30:806][ 90]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.30:886][ 91]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.30:937][ 92]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.31:000][ 93]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.31:087][ 94]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.31:132][ 95]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.31:166][ 96]LogGeomTools: Triangulation of poly failed.
+[2020.10.14-18.00.42:015][261]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/gemRed_Sprite92AD9C8546BC828F4FDE888C924D75B5.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScroller/Sprites/gemRed_Sprite.uasset'
+[2020.10.14-18.00.42:048][261]AssetCheck: New page: Asset Save: gemRed_Sprite
+[2020.10.14-18.00.42:048][261]LogContentValidation: Display: Validating PaperSprite /Game/2DSideScroller/Sprites/gemRed_Sprite.gemRed_Sprite
+[2020.10.14-18.00.42:665][272]LogSlate: Window 'gemRed_Sprite' being destroyed
+[2020.10.14-18.00.42:695][272]LogSlate: Window 'gemRed_Sprite' being destroyed
+[2020.10.14-18.00.42:761][272]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-18.00.42:761][272]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-18.00.51:573][544]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/2DSideScrollerBP/Blueprints/disappearinggem.disappearinggem
+[2020.10.14-18.01.08:711][962]LogSavePackage: Moving '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Saved/disappearinggemD958BDC444D7B9E66655A1AC739A44BD.tmp' to '../../../../../../Users/Liam/Documents/Github/Paper2DGame-CPS353/MyProject2/Content/2DSideScrollerBP/Blueprints/disappearinggem.uasset'
+[2020.10.14-18.01.08:732][962]AssetCheck: New page: Asset Save: disappearinggem
+[2020.10.14-18.01.08:732][962]LogContentValidation: Display: Validating Blueprint /Game/2DSideScrollerBP/Blueprints/disappearinggem.disappearinggem
+[2020.10.14-18.01.09:615][986]LogSlate: Window 'disappearinggem' being destroyed
+[2020.10.14-18.01.09:632][986]LogSlate: Window 'disappearinggem' being destroyed
+[2020.10.14-18.01.09:633][986]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-18.01.09:633][986]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-18.01.11:623][ 46]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.10.14-18.01.11:688][ 46]BlueprintLog: New page: Pre-Play auto-recompile
+[2020.10.14-18.01.11:693][ 46]LogPlayLevel: [PlayLevel] Compiling disappearinggem before play...
+[2020.10.14-18.01.11:755][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2020.10.14-18.01.11:758][ 46]LogPlayLevel: PlayLevel: Blueprint regeneration took 69 ms (1 blueprints)
+[2020.10.14-18.01.11:758][ 46]PIE: New page: PIE session: NewWorld (Oct 14, 2020, 10:01:11 AM)
+[2020.10.14-18.01.11:758][ 46]LogPlayLevel: Creating play world package: /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-18.01.11:762][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003504s)
+[2020.10.14-18.01.11:764][ 46]LogAIModule: Creating AISystem for world NewWorld
+[2020.10.14-18.01.11:764][ 46]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000204C7757200), frame # 70046
+[2020.10.14-18.01.11:764][ 46]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000204D7F342C0), frame # 70046
+[2020.10.14-18.01.11:765][ 46]LogPlayLevel: PIE: World Init took: (0.002610s)
+[2020.10.14-18.01.11:765][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/2DSideScrollerBP/Maps/NewWorld.NewWorld to /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld (0.006351s)
+[2020.10.14-18.01.11:807][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2020.10.14-18.01.11:807][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.10.14-18.01.11:807][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.10.14-18.01.11:807][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.10.14-18.01.11:808][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.10.14-18.01.11:808][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.10.14-18.01.11:808][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.10.14-18.01.11:808][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.10.14-18.01.11:808][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.10.14-18.01.11:808][ 46]LogAudio: Display: Using built-in audio occlusion.
+[2020.10.14-18.01.11:808][ 46]LogAudioMixer: Display: Initializing audio mixer.
+[2020.10.14-18.01.11:815][ 46]LogAudioMixer: Display: 0: FrontLeft
+[2020.10.14-18.01.11:815][ 46]LogAudioMixer: Display: 1: FrontRight
+[2020.10.14-18.01.11:939][ 46]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2020.10.14-18.01.11:940][ 46]LogAudioMixer: Display: Initializing Sound Submixes...
+[2020.10.14-18.01.11:940][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2020.10.14-18.01.11:940][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2020.10.14-18.01.11:940][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2020.10.14-18.01.11:959][ 46]LogInit: FAudioDevice initialized.
+[2020.10.14-18.01.11:992][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-18.01.11:993][ 46]LogLoad: Game class is '2DSideScrollerGameMode_C'
+[2020.10.14-18.01.12:005][ 46]LogWorld: Bringing World /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2020.10.14-14.01.12
+[2020.10.14-18.01.12:006][ 46]LogWorld: Bringing up level for play took: 0.012809
+[2020.10.14-18.01.12:006][ 46]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2020.10.14-18.01.12:026][ 46]PIE: Server logged in
+[2020.10.14-18.01.12:029][ 46]PIE: Play in editor total start time 0.343 seconds.
+[2020.10.14-18.09.42:473][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.10.14-18.09.42:473][812]LogWorld: BeginTearingDown for /Game/2DSideScrollerBP/Maps/UEDPIE_0_NewWorld
+[2020.10.14-18.09.42:475][812]LogSlate: Window 'MyProject2 Preview [NetMode: Standalone] (64-bit/Windows) ' being destroyed
+[2020.10.14-18.09.42:534][812]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2020.10.14-18.09.42:541][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-18.09.42:555][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.10.14-18.09.42:563][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.10.14-18.09.42:688][812]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000204D7F342C0), frame # 86812
+[2020.10.14-18.09.42:688][812]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000204C7757200), frame # 86812
+[2020.10.14-18.09.42:696][812]LogUObjectHash: Compacting FUObjectHashTables data took   5.83ms
+[2020.10.14-18.09.42:787][813]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2020.10.14-18.09.52:040][ 89]LogAssetEditorSubsystem: Opening Asset editor for PaperSprite /Game/2DSideScroller/Sprites/gemRed_Sprite.gemRed_Sprite
+[2020.10.14-18.10.48:061][943]LogRHI: Error: Present Fail Count 1
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SyncInterval 0
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.BufferDesc.Width 1938
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.BufferDesc.Height 1048
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Numerator 0
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.BufferDesc.RefreshRate.Denominator 0
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.BufferDesc.Format 24
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.BufferDesc.ScanlineOrdering 0
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.BufferDesc.Scaling 0
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.SampleDesc.Count 1
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.SampleDesc.Quality 0
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.BufferUsage 48
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.BufferCount 2
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.OutputWindow 00000000002005D4
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.Windowed true
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.SwapEffect 4
+[2020.10.14-18.10.48:061][943]LogRHI: Error: SwapChainDesc.Flags 2050
+[2020.10.14-18.10.48:061][943]LogD3D11RHI: Error: Result failed 
+ at D:/Build/++UE4+Licensee/Sync/Engine/Source/Runtime/Windows/D3D11RHI/Private/D3D11Query.cpp:348 
+ with error DXGI_ERROR_DEVICE_REMOVED DXGI_ERROR_DEVICE_HUNG
+[2020.10.14-18.10.48:061][943]LogD3D11RHI: [Aftermath] GDynamicRHI=00000204717600C0, GDX11NVAfterMathEnabled=0, Result=0xFFFFFFFF, bDeviceActive=0
+[2020.10.14-18.10.48:061][943]LogWindows: Windows GetLastError: The operation completed successfully. (0)
