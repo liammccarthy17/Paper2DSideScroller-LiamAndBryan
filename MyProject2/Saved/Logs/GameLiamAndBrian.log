@@ -3433,3 +3433,7 @@ Script Stack (0 frames):
 [2020.12.01-15.33.58:759][723]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemies/Mushroom/Mushroom]
 [2020.12.01-15.33.58:958][723]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Mushroom_Auto70A3FBB4943EAF25C1A081E850C94D5E4.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Autosaves/Game/Enemies/Mushroom/Mushroom_Auto7.uasset'
 [2020.12.01-15.33.58:959][723]LogFileHelpers: Auto-saving content packages took 0.201
+[2020.12.01-15.41.00:249][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2020.12.01-15.41.00:292][199]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/TutorialD4B6641D4607130EBF09769F862AE8F9.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/2DSideScrollerBP/Maps/Tutorial.umap'
+[2020.12.01-15.41.00:540][199]AssetCheck: New page: Asset Save: Tutorial
+[2020.12.01-15.41.00:540][199]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Tutorial.Tutorial
