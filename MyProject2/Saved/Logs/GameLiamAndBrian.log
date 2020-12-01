@@ -3437,3 +3437,593 @@ Script Stack (0 frames):
 [2020.12.01-15.41.00:292][199]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/TutorialD4B6641D4607130EBF09769F862AE8F9.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/2DSideScrollerBP/Maps/Tutorial.umap'
 [2020.12.01-15.41.00:540][199]AssetCheck: New page: Asset Save: Tutorial
 [2020.12.01-15.41.00:540][199]LogContentValidation: Display: Validating World /Game/2DSideScrollerBP/Maps/Tutorial.Tutorial
+[2020.12.01-15.41.22:357][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2020.12.01-15.41.22:406][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack1385E8E4410D7EB56A966A9B08050C1F.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Attack.uasset'
+[2020.12.01-15.41.22:428][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Death30450C9B4D760274E3122A946EF5DFEA.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Death.uasset'
+[2020.12.01-15.41.22:449][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Idle9356904740E025A692F215ACDF9BA82D.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Idle.uasset'
+[2020.12.01-15.41.22:470][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run312BD4374002F91CE36A19B3D2FB0496.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Run.uasset'
+[2020.12.01-15.41.22:490][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit8B59B2494F7BB6BAB16DB493D5BF2042.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Take_Hit.uasset'
+[2020.12.01-15.41.22:509][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Attack_02ECDF53442536C91F2D0CDB36F30AA10.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Attack_Attack_0.uasset'
+[2020.12.01-15.41.22:529][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Attack_166B24A624A704E620B9D8FB1941C5271.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Attack_Attack_1.uasset'
+[2020.12.01-15.41.22:550][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Attack_2F066A8C34BA2BCAFEB5663826A9A2E28.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Attack_Attack_2.uasset'
+[2020.12.01-15.41.22:616][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Attack_3C85A8C13452D054CD69EAA91EEEB2547.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Attack_Attack_3.uasset'
+[2020.12.01-15.41.22:637][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Attack_4B229249F42295E86D17B1CAC34C5381F.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Attack_Attack_4.uasset'
+[2020.12.01-15.41.22:657][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Attack_56AE93B40452F565971AEAEA209E4C1A9.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Attack_Attack_5.uasset'
+[2020.12.01-15.41.22:677][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Attack_6E632EECB4D0590F3ABFF53ADB5E84FB5.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Attack_Attack_6.uasset'
+[2020.12.01-15.41.22:699][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Attack_78843E38E45B03C665E22EE8D9B851384.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Attack_Attack_7.uasset'
+[2020.12.01-15.41.22:719][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Attack_812E95E1445BEE42FF2FF99958F197070.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Attack_Attack_8.uasset'
+[2020.12.01-15.41.22:740][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Attack_9AA0E7E5F4D4D5F3027B50CA61C7510E9.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Attack_Attack_9.uasset'
+[2020.12.01-15.41.22:788][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Attack_10E5D81F0B4A1C805F0E08E9BE47D4CEAB.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Attack_Attack_10.uasset'
+[2020.12.01-15.41.22:808][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Death_Sprite_0771ED73E4D32C96CD35DD386AEF7ED5F.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Death_Sprite_0.uasset'
+[2020.12.01-15.41.22:834][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Death_Sprite_19E575B50472E398A499BFEA8EB72FA5E.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Death_Sprite_1.uasset'
+[2020.12.01-15.41.22:853][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Death_Sprite_2F87C41884D6B888C2D2CEC92D5DD5C02.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Death_Sprite_2.uasset'
+[2020.12.01-15.41.22:873][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Death_Sprite_3B27786424FA72D72849FEFBE22E0A5CF.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Death_Sprite_3.uasset'
+[2020.12.01-15.41.22:892][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Idle_Sprite_0B68BAA8940516505E95A4E8F286E7331.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Idle_Sprite_0.uasset'
+[2020.12.01-15.41.22:912][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Idle_Sprite_1609A1A8E40AF72977F04E8AE1162B986.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Idle_Sprite_1.uasset'
+[2020.12.01-15.41.22:930][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Idle_Sprite_2D2C71B1F43739E01FBA3A195888D42B5.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Idle_Sprite_2.uasset'
+[2020.12.01-15.41.23:116][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Idle_Sprite_320F793EA47E0267622E55EA4EEE7DE1A.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Idle_Sprite_3.uasset'
+[2020.12.01-15.41.23:167][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_0E316D8604D96998D4EA4B2911A965D23.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Run_Sprite_0.uasset'
+[2020.12.01-15.41.23:209][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_1DF5B07304ED211E9917CE1A8A9951C70.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Run_Sprite_1.uasset'
+[2020.12.01-15.41.23:272][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_26D4EFF00406D51DF8FF18DAD1BE1AB28.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Run_Sprite_2.uasset'
+[2020.12.01-15.41.23:312][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_3022044DB45A5F99E695BFC86310A44DA.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Run_Sprite_3.uasset'
+[2020.12.01-15.41.23:366][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_45325988A4ED4F3FF75EB73B29E327217.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Run_Sprite_4.uasset'
+[2020.12.01-15.41.23:387][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_5120B83FE47712F192F8C49995AA40202.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Run_Sprite_5.uasset'
+[2020.12.01-15.41.23:408][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_676E6D6CC48775822FC68EFB8BAC5FFCB.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Run_Sprite_6.uasset'
+[2020.12.01-15.41.23:429][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_725336B284C91726F65910F88E4677F4A.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Run_Sprite_7.uasset'
+[2020.12.01-15.41.23:450][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit_Sprite_08DA1011447AED74446B5A99420C05691.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Take_Hit_Sprite_0.uasset'
+[2020.12.01-15.41.23:469][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit_Sprite_1C792B99B45DEC9E60FD692991769AD0B.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Take_Hit_Sprite_1.uasset'
+[2020.12.01-15.41.23:633][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit_Sprite_208C4DB0445CA0AE1AAE18F8AF2C97745.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Take_Hit_Sprite_2.uasset'
+[2020.12.01-15.41.23:650][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit_Sprite_3C567E5174212624738644FA8F6EA34A5.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Take_Hit_Sprite_3.uasset'
+[2020.12.01-15.41.23:670][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit_Sprite_46FA6B77C41B3ACF0AABBFBB45357BD26.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Take_Hit_Sprite_4.uasset'
+[2020.12.01-15.41.23:715][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit_Sprite_5FD1E15034BD0304FE6B037BA950CEFB0.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Take_Hit_Sprite_5.uasset'
+[2020.12.01-15.41.23:732][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit_Sprite_62FFB67484DF351972AB46BB4E449A8E1.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Take_Hit_Sprite_6.uasset'
+[2020.12.01-15.41.23:749][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit_Sprite_7A28AB4384496CBF4C481DBA3F9757B8D.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Goblin/Animations/Take_Hit_Sprite_7.uasset'
+[2020.12.01-15.41.23:759][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/Mushroom/Mushroom" FILE="C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Mushroom.uasset" SILENT=true
+[2020.12.01-15.41.23:857][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Mushroom005C7C8A45E5CA2AB49559BF7700023B.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Mushroom.uasset'
+[2020.12.01-15.41.23:878][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/AttackFF53CDE140BE31CBC9044F8189524DDE.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack.uasset'
+[2020.12.01-15.41.23:898][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/DeathD007C48C4EDEC21E7AC5A9ACBFA29F33.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Death.uasset'
+[2020.12.01-15.41.23:918][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/IdleB43DEE914BE9584BB9B797A36C7CAC72.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Idle.uasset'
+[2020.12.01-15.41.23:939][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/RunF02D42594FA94909816C80B30BD73CE3.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Run.uasset'
+[2020.12.01-15.41.23:959][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit8CD55A9242982E702246A6B3177EB941.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Take_Hit.uasset'
+[2020.12.01-15.41.23:984][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit_Sprite_0B8EFD2104B34D8094B87B1AC69FEA045.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Take_Hit_Sprite_0.uasset'
+[2020.12.01-15.41.24:003][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit_Sprite_10544F68C49ADA90E02730890CFD4F5C9.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Take_Hit_Sprite_1.uasset'
+[2020.12.01-15.41.24:023][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit_Sprite_2A564BFA2472E981F963927BD24A7BDFD.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Take_Hit_Sprite_2.uasset'
+[2020.12.01-15.41.24:043][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Take_Hit_Sprite_3EE994A9745463A388A21BA946C7CC0DE.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Take_Hit_Sprite_3.uasset'
+[2020.12.01-15.41.24:061][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_0905984E24970D45FC2E921AEB4C8AF2F.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Run_Sprite_0.uasset'
+[2020.12.01-15.41.24:080][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_14056EB5B4731068AC5F49BBB8D5085D7.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Run_Sprite_1.uasset'
+[2020.12.01-15.41.24:100][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_24ED0A9C140CDE7EC0E51CF9FE32829AF.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Run_Sprite_2.uasset'
+[2020.12.01-15.41.24:119][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_3748B30F8430F345ACDF4E39DBD81E156.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Run_Sprite_3.uasset'
+[2020.12.01-15.41.24:139][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_481CF94C54437B2167F5A21BC966F8790.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Run_Sprite_4.uasset'
+[2020.12.01-15.41.24:157][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_52649079E4A682FDDC6472296D5108F64.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Run_Sprite_5.uasset'
+[2020.12.01-15.41.24:175][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_654A8D6E64E9BEA50FB9CBA88997E9F39.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Run_Sprite_6.uasset'
+[2020.12.01-15.41.24:193][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Run_Sprite_75B9B479D45F6877EEEC840A541EDD7C4.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Run_Sprite_7.uasset'
+[2020.12.01-15.41.24:221][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Idle_Sprite_0DE5626994929EF16949D04AEB5559037.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Idle_Sprite_0.uasset'
+[2020.12.01-15.41.24:241][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Idle_Sprite_1EF625FFC49FC682B86EA9DBE9BAA1369.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Idle_Sprite_1.uasset'
+[2020.12.01-15.41.24:263][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Idle_Sprite_2453902C044CF15B981EFC490363D098F.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Idle_Sprite_2.uasset'
+[2020.12.01-15.41.24:282][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Idle_Sprite_31E96A6A149E0D0E55BCFF1A9DE671AC8.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Idle_Sprite_3.uasset'
+[2020.12.01-15.41.24:300][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Death_Sprite_001C54B7C4857C16A415A99A1F92574B8.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Death_Sprite_0.uasset'
+[2020.12.01-15.41.24:318][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Death_Sprite_1A04B2B91460DB0950A42369151CDE1F9.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Death_Sprite_1.uasset'
+[2020.12.01-15.41.24:337][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Death_Sprite_260517D734F61C598DDDDFCBB0F70CF6A.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Death_Sprite_2.uasset'
+[2020.12.01-15.41.24:357][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Death_Sprite_31F946BAD4112CD6DC21799B241C39233.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Death_Sprite_3.uasset'
+[2020.12.01-15.41.24:382][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Sprite_02689DE1041F7AF4DD39696AD7A1325CF.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack_Sprite_0.uasset'
+[2020.12.01-15.41.24:401][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Sprite_17EB27D1B4EE42BADA52B33A3501C506A.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack_Sprite_1.uasset'
+[2020.12.01-15.41.24:419][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Sprite_2746372AC4E0A6868EA8C2FAE89492EAB.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack_Sprite_2.uasset'
+[2020.12.01-15.41.24:438][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Sprite_349144A544B397FD2B3BE4E974D71DAF9.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack_Sprite_3.uasset'
+[2020.12.01-15.41.24:457][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Sprite_4F6FA844E436F6DE9C7165DBA75B11B5D.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack_Sprite_4.uasset'
+[2020.12.01-15.41.24:474][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Sprite_517EDBD5F4F664F0812710CA5580CC4A0.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack_Sprite_5.uasset'
+[2020.12.01-15.41.24:493][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Sprite_60C1661664F7D985D299DC38BA41B5737.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack_Sprite_6.uasset'
+[2020.12.01-15.41.24:510][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Sprite_79FAD824A467EE1F7DD4313A22C29F11F.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack_Sprite_7.uasset'
+[2020.12.01-15.41.24:527][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Sprite_82DF0AFA94178912C12A6A5A97F5B2DD4.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack_Sprite_8.uasset'
+[2020.12.01-15.41.24:545][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Sprite_95468D53E4102BE437E892986CAE8460D.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack_Sprite_9.uasset'
+[2020.12.01-15.41.24:575][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Sprite_10B47E65D44279DD347CEF1CBDA12BD2C3.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack_Sprite_10.uasset'
+[2020.12.01-15.41.24:592][732]LogSavePackage: Moving 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Saved/Attack_Sprite_117DBC88C745AECC6B3734B5BCF6D0051A.tmp' to 'C:/Users/sephi/Documents/GitHub/Paper2DSideScroller-LiamAndBryan/MyProject2/Content/Enemies/Mushroom/Animations/Attack_Sprite_11.uasset'
+[2020.12.01-15.41.25:061][732]AssetCheck: New page: Asset Save: multiple assets
+[2020.12.01-15.41.25:061][732]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Goblin/Animations/Attack.Attack
+[2020.12.01-15.41.25:061][732]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Goblin/Animations/Death.Death
+[2020.12.01-15.41.25:061][732]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Goblin/Animations/Idle.Idle
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Goblin/Animations/Run.Run
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Goblin/Animations/Take_Hit.Take_Hit
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Attack_Attack_0.Attack_Attack_0
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Attack_Attack_1.Attack_Attack_1
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Attack_Attack_2.Attack_Attack_2
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Attack_Attack_3.Attack_Attack_3
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Attack_Attack_4.Attack_Attack_4
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Attack_Attack_5.Attack_Attack_5
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Attack_Attack_6.Attack_Attack_6
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Attack_Attack_7.Attack_Attack_7
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Attack_Attack_8.Attack_Attack_8
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Attack_Attack_9.Attack_Attack_9
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Attack_Attack_10.Attack_Attack_10
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Death_Sprite_0.Death_Sprite_0
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Death_Sprite_1.Death_Sprite_1
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Death_Sprite_2.Death_Sprite_2
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Death_Sprite_3.Death_Sprite_3
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Idle_Sprite_0.Idle_Sprite_0
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Idle_Sprite_1.Idle_Sprite_1
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Idle_Sprite_2.Idle_Sprite_2
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Idle_Sprite_3.Idle_Sprite_3
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Run_Sprite_0.Run_Sprite_0
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Run_Sprite_1.Run_Sprite_1
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Run_Sprite_2.Run_Sprite_2
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Run_Sprite_3.Run_Sprite_3
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Run_Sprite_4.Run_Sprite_4
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Run_Sprite_5.Run_Sprite_5
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Run_Sprite_6.Run_Sprite_6
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Run_Sprite_7.Run_Sprite_7
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Take_Hit_Sprite_0.Take_Hit_Sprite_0
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Take_Hit_Sprite_1.Take_Hit_Sprite_1
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Take_Hit_Sprite_2.Take_Hit_Sprite_2
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Take_Hit_Sprite_3.Take_Hit_Sprite_3
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Take_Hit_Sprite_4.Take_Hit_Sprite_4
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Take_Hit_Sprite_5.Take_Hit_Sprite_5
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Take_Hit_Sprite_6.Take_Hit_Sprite_6
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Goblin/Animations/Take_Hit_Sprite_7.Take_Hit_Sprite_7
+[2020.12.01-15.41.25:062][732]LogContentValidation: Display: Validating Blueprint /Game/Enemies/Mushroom/Mushroom.Mushroom
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mushroom/Animations/Attack.Attack
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mushroom/Animations/Death.Death
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mushroom/Animations/Idle.Idle
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mushroom/Animations/Run.Run
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating Texture2D /Game/Enemies/Mushroom/Animations/Take_Hit.Take_Hit
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Take_Hit_Sprite_0.Take_Hit_Sprite_0
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Take_Hit_Sprite_1.Take_Hit_Sprite_1
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Take_Hit_Sprite_2.Take_Hit_Sprite_2
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Take_Hit_Sprite_3.Take_Hit_Sprite_3
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Run_Sprite_0.Run_Sprite_0
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Run_Sprite_1.Run_Sprite_1
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Run_Sprite_2.Run_Sprite_2
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Run_Sprite_3.Run_Sprite_3
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Run_Sprite_4.Run_Sprite_4
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Run_Sprite_5.Run_Sprite_5
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Run_Sprite_6.Run_Sprite_6
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Run_Sprite_7.Run_Sprite_7
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Idle_Sprite_0.Idle_Sprite_0
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Idle_Sprite_1.Idle_Sprite_1
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Idle_Sprite_2.Idle_Sprite_2
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Idle_Sprite_3.Idle_Sprite_3
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Death_Sprite_0.Death_Sprite_0
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Death_Sprite_1.Death_Sprite_1
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Death_Sprite_2.Death_Sprite_2
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Death_Sprite_3.Death_Sprite_3
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Attack_Sprite_0.Attack_Sprite_0
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Attack_Sprite_1.Attack_Sprite_1
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Attack_Sprite_2.Attack_Sprite_2
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Attack_Sprite_3.Attack_Sprite_3
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Attack_Sprite_4.Attack_Sprite_4
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Attack_Sprite_5.Attack_Sprite_5
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Attack_Sprite_6.Attack_Sprite_6
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Attack_Sprite_7.Attack_Sprite_7
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Attack_Sprite_8.Attack_Sprite_8
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Attack_Sprite_9.Attack_Sprite_9
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Attack_Sprite_10.Attack_Sprite_10
+[2020.12.01-15.41.25:063][732]LogContentValidation: Display: Validating PaperSprite /Game/Enemies/Mushroom/Animations/Attack_Sprite_11.Attack_Sprite_11
+[2020.12.01-15.41.26:222][822]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2020.12.01-15.41.26:321][822]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-15.41.26:321][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-15.41.26:422][822]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.12.01-15.41.26:422][822]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-15.41.26:422][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-15.41.26:590][822]LogSlate: Window 'Mushroom' being destroyed
+[2020.12.01-15.41.26:638][822]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2020.12.01-15.41.26:638][822]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-15.41.26:638][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.01-15.41.26:809][822]LogSlate: Window 'GameLiamAndBrian - Unreal Editor' being destroyed
+[2020.12.01-15.41.26:810][822]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.12.01-15.41.27:471][823]Cmd: QUIT_EDITOR
+[2020.12.01-15.41.27:472][823]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2020.12.01-15.41.27:489][823]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2020.12.01-15.41.28:343][823]LogExit: Preparing to exit.
+[2020.12.01-15.41.29:153][823]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-15.41.29:233][823]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.12.01-15.41.29:234][823]LogExit: Editor shut down
+[2020.12.01-15.41.29:236][823]LogExit: Transaction tracking system shut down
+[2020.12.01-15.41.29:272][823]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.12.01-15.41.29:306][823]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000002A811C1D400), frame # 400823
+[2020.12.01-15.41.29:306][823]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A811BA0540), frame # 400823
+[2020.12.01-15.41.29:307][823]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A811BDCA00), frame # 400823
+[2020.12.01-15.41.29:365][823]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002A883920540), frame # 400823
+[2020.12.01-15.41.29:365][823]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002A802E33600), frame # 400823
+[2020.12.01-15.41.30:008][823]LogExit: Object subsystem successfully closed.
+[2020.12.01-15.41.30:052][823]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.12.01-15.41.30:088][823]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (796)
+[2020.12.01-15.41.30:088][823]LogModuleManager: Shutting down and abandoning module Voice (794)
+[2020.12.01-15.41.30:102][823]LogModuleManager: Shutting down and abandoning module BlueprintGraph (792)
+[2020.12.01-15.41.30:102][823]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2020.12.01-15.41.30:102][823]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2020.12.01-15.41.30:102][823]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2020.12.01-15.41.30:105][823]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2020.12.01-15.41.30:105][823]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2020.12.01-15.41.30:105][823]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2020.12.01-15.41.30:105][823]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2020.12.01-15.41.30:105][823]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2020.12.01-15.41.30:105][823]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2020.12.01-15.41.30:105][823]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2020.12.01-15.41.30:106][823]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2020.12.01-15.41.30:106][823]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2020.12.01-15.41.30:106][823]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2020.12.01-15.41.30:106][823]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2020.12.01-15.41.30:106][823]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2020.12.01-15.41.30:106][823]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2020.12.01-15.41.30:106][823]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2020.12.01-15.41.30:106][823]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2020.12.01-15.41.30:106][823]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2020.12.01-15.41.30:106][823]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2020.12.01-15.41.30:106][823]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2020.12.01-15.41.30:106][823]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2020.12.01-15.41.30:107][823]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2020.12.01-15.41.30:108][823]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2020.12.01-15.41.30:108][823]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2020.12.01-15.41.30:108][823]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2020.12.01-15.41.30:108][823]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2020.12.01-15.41.30:108][823]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2020.12.01-15.41.30:108][823]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2020.12.01-15.41.30:108][823]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2020.12.01-15.41.30:108][823]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2020.12.01-15.41.30:108][823]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2020.12.01-15.41.30:136][823]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2020.12.01-15.41.30:136][823]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2020.12.01-15.41.30:136][823]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2020.12.01-15.41.30:136][823]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2020.12.01-15.41.30:137][823]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2020.12.01-15.41.30:137][823]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2020.12.01-15.41.30:137][823]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2020.12.01-15.41.30:137][823]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2020.12.01-15.41.30:137][823]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2020.12.01-15.41.30:137][823]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2020.12.01-15.41.30:137][823]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2020.12.01-15.41.30:137][823]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2020.12.01-15.41.30:137][823]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2020.12.01-15.41.30:137][823]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2020.12.01-15.41.32:046][823]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2020.12.01-15.41.32:047][823]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2020.12.01-15.41.32:047][823]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2020.12.01-15.41.32:047][823]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2020.12.01-15.41.32:047][823]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2020.12.01-15.41.32:047][823]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2020.12.01-15.41.32:047][823]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2020.12.01-15.41.32:047][823]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2020.12.01-15.41.32:080][823]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2020.12.01-15.41.32:080][823]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2020.12.01-15.41.32:080][823]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2020.12.01-15.41.32:080][823]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2020.12.01-15.41.32:080][823]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2020.12.01-15.41.32:080][823]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2020.12.01-15.41.32:080][823]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2020.12.01-15.41.32:080][823]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2020.12.01-15.41.32:080][823]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2020.12.01-15.41.32:080][823]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2020.12.01-15.41.32:080][823]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2020.12.01-15.41.32:252][823]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2020.12.01-15.41.32:252][823]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2020.12.01-15.41.32:253][823]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2020.12.01-15.41.32:253][823]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2020.12.01-15.41.32:254][823]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2020.12.01-15.41.32:254][823]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2020.12.01-15.41.32:254][823]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2020.12.01-15.41.32:352][823]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2020.12.01-15.41.32:352][823]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2020.12.01-15.41.32:361][823]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2020.12.01-15.41.32:361][823]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2020.12.01-15.41.32:361][823]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2020.12.01-15.41.32:361][823]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2020.12.01-15.41.32:361][823]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2020.12.01-15.41.32:361][823]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2020.12.01-15.41.32:362][823]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2020.12.01-15.41.32:362][823]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2020.12.01-15.41.32:362][823]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2020.12.01-15.41.32:362][823]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2020.12.01-15.41.32:362][823]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2020.12.01-15.41.32:362][823]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2020.12.01-15.41.32:362][823]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2020.12.01-15.41.32:362][823]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2020.12.01-15.41.32:362][823]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2020.12.01-15.41.32:362][823]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2020.12.01-15.41.32:362][823]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2020.12.01-15.41.32:605][823]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2020.12.01-15.41.32:606][823]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2020.12.01-15.41.32:607][823]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2020.12.01-15.41.32:709][823]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2020.12.01-15.41.32:810][823]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2020.12.01-15.41.32:810][823]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2020.12.01-15.41.32:810][823]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2020.12.01-15.41.32:810][823]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2020.12.01-15.41.32:810][823]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2020.12.01-15.41.32:810][823]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2020.12.01-15.41.32:810][823]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2020.12.01-15.41.32:810][823]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2020.12.01-15.41.32:810][823]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2020.12.01-15.41.32:810][823]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2020.12.01-15.41.32:810][823]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2020.12.01-15.41.32:810][823]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.12.01-15.41.32:811][823]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2020.12.01-15.41.32:811][823]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2020.12.01-15.41.32:811][823]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2020.12.01-15.41.32:811][823]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2020.12.01-15.41.32:811][823]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2020.12.01-15.41.32:811][823]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2020.12.01-15.41.32:811][823]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2020.12.01-15.41.32:812][823]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2020.12.01-15.41.32:812][823]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2020.12.01-15.41.32:812][823]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2020.12.01-15.41.32:812][823]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2020.12.01-15.41.32:812][823]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2020.12.01-15.41.32:812][823]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2020.12.01-15.41.32:812][823]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2020.12.01-15.41.32:814][823]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2020.12.01-15.41.32:814][823]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2020.12.01-15.41.32:815][823]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2020.12.01-15.41.32:815][823]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2020.12.01-15.41.32:815][823]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2020.12.01-15.41.32:815][823]LogModuleManager: Shutting down and abandoning module TreeMap (289)
+[2020.12.01-15.41.32:815][823]LogModuleManager: Shutting down and abandoning module AnimationSharing (286)
+[2020.12.01-15.41.32:815][823]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (284)
+[2020.12.01-15.41.32:815][823]LogModuleManager: Shutting down and abandoning module Paper2D (282)
+[2020.12.01-15.41.32:815][823]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (280)
+[2020.12.01-15.41.32:829][823]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (278)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (276)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module PacketHandler (274)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (272)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (270)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module MediaAssets (268)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module Overlay (266)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module OverlayEditor (265)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module VREditor (262)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module StringTableEditor (260)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (258)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (256)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module FunctionalTesting (254)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (252)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module UMG (250)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module UMGEditor (249)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module MessageLog (247)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module MaterialEditor (245)
+[2020.12.01-15.41.32:830][823]LogModuleManager: Shutting down and abandoning module ContentBrowser (244)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (243)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module Core (216)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2020.12.01-15.41.32:835][823]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2020.12.01-15.41.32:836][823]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2020.12.01-15.41.32:838][823]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2020.12.01-15.41.32:838][823]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2020.12.01-15.41.32:838][823]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2020.12.01-15.41.32:839][823]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2020.12.01-15.41.32:840][823]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2020.12.01-15.41.32:858][823]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2020.12.01-15.41.32:868][823]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2020.12.01-15.41.32:868][823]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2020.12.01-15.41.32:868][823]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2020.12.01-15.41.32:868][823]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2020.12.01-15.41.32:868][823]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2020.12.01-15.41.32:868][823]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2020.12.01-15.41.32:868][823]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2020.12.01-15.41.32:868][823]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2020.12.01-15.41.32:868][823]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2020.12.01-15.41.32:873][823]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2020.12.01-15.41.32:900][823]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2020.12.01-15.41.32:900][823]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2020.12.01-15.41.32:900][823]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2020.12.01-15.41.32:900][823]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2020.12.01-15.41.32:901][823]LogHMD: Freeing OpenVRDLLHandle.
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2020.12.01-15.41.32:901][823]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2020.12.01-15.41.32:903][823]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2020.12.01-15.41.32:903][823]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2020.12.01-15.41.32:915][823]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2020.12.01-15.41.32:915][823]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2020.12.01-15.41.32:915][823]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1AF32CE6-4FB9-4CAB-1B09-A5BF97FE1C55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=b7dc4b404de06db6ee737a91ace6b7e0%7C7d406dc4a3194441ade7eed75d183493%7C1572065d-2446-4879-9808-119f83e3d499&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.12.01-15.41.32:915][823]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1AF32CE6-4FB9-4CAB-1B09-A5BF97FE1C55%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.3-13942748%2B%2B%2BUE4%2BRelease-4.25&UserID=b7dc4b404de06db6ee737a91ace6b7e0%7C7d406dc4a3194441ade7eed75d183493%7C1572065d-2446-4879-9808-119f83e3d499&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2020.12.01-15.41.32:936][823]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2020.12.01-15.41.32:939][823]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2020.12.01-15.41.32:941][823]LogModuleManager: Shutting down and abandoning module Media (61)
+[2020.12.01-15.41.32:942][823]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2020.12.01-15.41.32:942][823]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2020.12.01-15.41.32:942][823]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2020.12.01-15.41.32:942][823]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2020.12.01-15.41.32:942][823]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2020.12.01-15.41.32:942][823]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2020.12.01-15.41.32:942][823]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2020.12.01-15.41.32:942][823]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2020.12.01-15.41.32:942][823]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2020.12.01-15.41.32:943][823]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.12.01-15.41.32:943][823]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.12.01-15.41.32:943][823]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.12.01-15.41.32:943][823]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.12.01-15.41.32:943][823]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.12.01-15.41.32:944][823]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.12.01-15.41.32:944][823]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.12.01-15.41.32:944][823]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.12.01-15.41.32:956][823]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.12.01-15.41.32:956][823]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.12.01-15.41.32:956][823]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.12.01-15.41.32:956][823]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.12.01-15.41.32:957][823]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.12.01-15.41.32:957][823]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.12.01-15.41.32:957][823]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.12.01-15.41.32:957][823]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.12.01-15.41.32:957][823]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.12.01-15.41.32:957][823]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.12.01-15.41.32:957][823]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.12.01-15.41.32:957][823]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.12.01-15.41.32:957][823]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2020.12.01-15.41.32:977][823]LogD3D11RHI: Shutdown
+[2020.12.01-15.41.32:977][823]LogD3D11RHI: CleanupD3DDevice
+[2020.12.01-15.41.33:000][823]LogExit: Exiting.
+[2020.12.01-15.41.33:031][823]Log file closed, 12/01/20 10:41:33
